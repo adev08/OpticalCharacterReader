@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalCharacterReader", "OpticalCharacterReader\OpticalCharacterReader.csproj", "{97771263-9965-44B3-9B47-7743019001CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97771263-9965-44B3-9B47-7743019001CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97771263-9965-44B3-9B47-7743019001CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97771263-9965-44B3-9B47-7743019001CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97771263-9965-44B3-9B47-7743019001CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF08C1D-4EE6-4E86-88BB-A3EA807708E6}
+	EndGlobalSection
+EndGlobal
