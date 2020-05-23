@@ -24,9 +24,9 @@ namespace OpticalCharacterReader.Controllers
 
         public OCRController()
         {
-            subscriptionKey = "fc1699c44c5c471e9baeeead43d37f49";
-            endpoint = "https://opticalcharacterreader.cognitiveservices.azure.com/";
-            uriBase = endpoint + "vision/v2.1/ocr";
+            subscriptionKey = "";
+            endpoint = "";
+            uriBase = endpoint + "vision/v1.0/ocr";
         }
 
         [HttpPost, DisableRequestSizeLimit]
